@@ -1,6 +1,6 @@
-#  Projeto - API de Locadora
+#  Project - API de Locadora
 
-## Descrição
+## Description
 Serviço REST para gerenciamento básico de locadora
 
 ### 
